@@ -1,0 +1,16 @@
+Enter total number of cargo items: 4
+Enter truck capacity: 8
+Enter mass and value of each cargo item:
+Cargo 1 - Mass: 2
+Cargo 1 - Value: 3
+Cargo 2 - Mass: 3
+Cargo 2 - Value: 4
+Cargo 3 - Mass: 4
+Cargo 3 - Value: 5
+Cargo 4 - Mass: 5
+Cargo 4 - Value: 8
+
+Maximum cargo value that can be carried: 12
+Chosen cargo items:
+Cargo 2 - Mass: 3  Value: 4
+Cargo 4 - Mass: 5  Value: 8
